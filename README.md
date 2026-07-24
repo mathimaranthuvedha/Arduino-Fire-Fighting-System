@@ -40,6 +40,8 @@ An automatic fire-fighting system developed using Arduino Uno. The robot continu
    - Pump turns OFF.
    - Servo scanning resumes automatically.
 
+## Circuit Diagram
+![Circuit](CircuitWiringDiagramFlameDetection.png.png)
 ## Challenges Faced
 
 - Synchronizing both servo motors during scanning.
